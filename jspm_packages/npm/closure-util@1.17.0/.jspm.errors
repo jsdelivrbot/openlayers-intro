@@ -1,0 +1,44 @@
+MultipleErrors: /home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:8:16: Unexpected token {
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:8:17: Semi-colon expected
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:8:27: Unexpected token }
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:8:28: Unexpected token ;
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:10:3: Character code '35' is not a valid identifier start char
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:10:2: Unexpected token {
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:10:3: Unexpected token error
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:10:4: Unexpected reserved word if
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:10:13: Unexpected token }
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:10:14: Unexpected token }
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:11:40: Unexpected token ;
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:12:2: Unexpected token {
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:12:4: Unexpected reserved word if
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:12:6: Unexpected token }
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:12:7: Unexpected token }
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:14:3: Unexpected reserved word for
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:14:8: Unexpected reserved word var
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:14:12: Unexpected token i
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:14:3: Invalid left-hand side expression in assignment
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:14:36: Unexpected token ;
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:14:44: Unexpected token ;
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:14:44: Invalid left-hand side expression in postfix operation
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:14:51: Semi-colon expected
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:20:3: Character code '35' is not a valid identifier start char
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:20:3: Unexpected token error
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:20:4: Semi-colon expected
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:20:7: Unexpected token socket
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:20:13: Unexpected token }
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:20:14: Unexpected token }
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:39:3: Expected '/' in regular expression literal
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:41:8: Semi-colon expected
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:41:8: Unexpected token )
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:42:1: Unexpected token End of File
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:42:1: Unexpected token End of File
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/templates/load.js:42:1: Unexpected token End of File
+
+MultipleErrors: /home/jan/.jspm/packages/npm/closure-util@1.17.0/test/fixtures/errors/main.js:5:3: Unexpected token @
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/test/fixtures/errors/main.js:5:5: Semi-colon expected
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/test/fixtures/errors/main.js:5:5: Unexpected token @
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/test/fixtures/errors/main.js:7:3: Invalid unicode escape sequence in identifier
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/test/fixtures/errors/main.js:7:3: Character code '0' is not a valid identifier start char
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/test/fixtures/errors/main.js:7:3: Unexpected token error
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/test/fixtures/errors/main.js:7:4: Semi-colon expected
+/home/jan/.jspm/packages/npm/closure-util@1.17.0/test/fixtures/errors/main.js:8:1: Unexpected end of input

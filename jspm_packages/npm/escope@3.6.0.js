@@ -1,0 +1,1 @@
+module.exports = require("npm:escope@3.6.0/lib/index.js");

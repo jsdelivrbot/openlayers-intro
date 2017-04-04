@@ -1,0 +1,1 @@
+module.exports = require("npm:co-fs-extra@1.2.1/index");

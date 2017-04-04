@@ -1,0 +1,1 @@
+module.exports = require("npm:fs-extra@0.26.7/lib/index");

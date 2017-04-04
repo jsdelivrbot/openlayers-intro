@@ -1,0 +1,1 @@
+module.exports = require("npm:d3@4.7.4/build/d3.js");

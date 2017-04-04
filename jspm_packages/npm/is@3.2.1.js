@@ -1,0 +1,1 @@
+module.exports = require("npm:is@3.2.1/index.js");
