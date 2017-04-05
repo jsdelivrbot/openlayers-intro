@@ -126,6 +126,8 @@
         <h1>Programming APIs</h1>
         <ul>
             <li>API von kommerziellen Anbietern</li>
+            <li>Leaflet <img class="logos" src="img/leaflet.jpg" alt=""/></li>
+            <li>OpenLayers <img class="logos" src="img/openlayers.png" alt=""/></li>
             <li>
                 Comparison of MAP APIs ➔
                 <a href="https://www.programmableweb.com/news/top-10-mapping-apis-google-maps-microsoft-bing-maps-and-mapquest/analysis/2015/02/23">Link</a>
@@ -134,8 +136,9 @@
     </div>
 
     <div class="step slide" data-x="3000" data-y="-1500">
-        <h1>Snippet</h1>
-        <pre><code class="javascript">new ol.Map({
+        <h1>Grundgerüst</h1>
+        <pre><code class="html">&lt;div id=&quot;map&quot;&gt;&lt;/div&gt;</code></pre>
+        <pre><code class="javascript">let map = new ol.Map({
     target: "map",
     layers: [],
     view: {}
@@ -143,7 +146,32 @@
 
     </div>
 
+    <div id="base" class="step slide" data-x="3000" data-y="-3000" data-rotate="180">
+        <pre><code class="javascript">let map = new ol.Map({
+    target: "map",
+    layers: [],
+    <div class="enhance">view: {
+    center: [x, y],
+    zoom: 7
+}</div>
+})</code></pre>
+
+    </div>
+
     <div class="step slide" data-x="4500" data-y="-1500">
+        <h1>OpenStreetMap Layer hinzufügen</h1>
+        <pre><code class="javascript">let map = new ol.Map({
+    target: "map",
+    layers: [
+        <div class="enhance">new ol.layer.Tile({
+    source: new ol.source.OSM()
+})</div>
+    ],
+    view: {...}
+})</code></pre>
+    </div>
+
+    <div class="step slide" data-x="4500" data-y="-3000">
         <h1>OpenStreetMap</h1>
         <div id="map"></div>
     </div>
