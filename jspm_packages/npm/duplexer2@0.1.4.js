@@ -1,1 +1,0 @@
-module.exports = require("npm:duplexer2@0.1.4/index");

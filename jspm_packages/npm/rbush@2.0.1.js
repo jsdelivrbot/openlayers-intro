@@ -1,1 +1,0 @@
-module.exports = require("npm:rbush@2.0.1/index.js");

@@ -1,1 +1,0 @@
-module.exports = require("npm:toml@2.3.2/index.js");

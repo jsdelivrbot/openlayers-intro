@@ -1,1 +1,0 @@
-module.exports = require("npm:traverse@0.3.9/index");

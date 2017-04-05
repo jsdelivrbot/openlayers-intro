@@ -1,1 +1,0 @@
-module.exports = require("npm:walk@2.3.9/lib/walk.js");

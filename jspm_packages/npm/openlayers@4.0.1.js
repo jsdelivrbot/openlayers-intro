@@ -1,1 +1,0 @@
-module.exports = require("npm:openlayers@4.0.1/dist/ol.js");

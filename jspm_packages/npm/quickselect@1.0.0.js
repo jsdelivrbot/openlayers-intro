@@ -1,1 +1,0 @@
-module.exports = require("npm:quickselect@1.0.0/index.js");

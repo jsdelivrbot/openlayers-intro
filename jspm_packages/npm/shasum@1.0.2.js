@@ -1,1 +1,0 @@
-module.exports = require("npm:shasum@1.0.2/index");

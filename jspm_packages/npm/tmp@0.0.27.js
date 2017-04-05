@@ -1,1 +1,0 @@
-module.exports = require("npm:tmp@0.0.27/lib/tmp.js");

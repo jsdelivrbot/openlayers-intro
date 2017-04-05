@@ -1,1 +1,0 @@
-module.exports = require("npm:querystring-es3@0.2.1/index");

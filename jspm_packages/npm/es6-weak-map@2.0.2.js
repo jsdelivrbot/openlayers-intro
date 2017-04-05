@@ -1,1 +1,0 @@
-module.exports = require("npm:es6-weak-map@2.0.2/index");

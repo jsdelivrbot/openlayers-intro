@@ -1,1 +1,0 @@
-module.exports = require("npm:es5-ext@0.10.15/index");

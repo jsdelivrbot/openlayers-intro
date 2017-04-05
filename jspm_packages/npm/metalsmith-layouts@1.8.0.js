@@ -1,1 +1,0 @@
-module.exports = require("npm:metalsmith-layouts@1.8.0/lib/index.js");

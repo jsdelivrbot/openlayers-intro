@@ -1,1 +1,0 @@
-module.exports = require("npm:pbf@3.0.5/index.js");

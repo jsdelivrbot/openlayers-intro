@@ -1,1 +1,0 @@
-module.exports = require("npm:d3-request@1.0.5/build/d3-request.js");

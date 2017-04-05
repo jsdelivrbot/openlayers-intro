@@ -1,1 +1,0 @@
-module.exports = require("npm:engine.io@1.8.2/lib/engine.io");

@@ -1,1 +1,0 @@
-module.exports = require("npm:win-fork@1.1.1/index.js");

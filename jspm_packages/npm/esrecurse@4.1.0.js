@@ -1,1 +1,0 @@
-module.exports = require("npm:esrecurse@4.1.0/esrecurse.js");

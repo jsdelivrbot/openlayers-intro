@@ -1,1 +1,0 @@
-module.exports = require("npm:path-platform@0.11.15/path.js");

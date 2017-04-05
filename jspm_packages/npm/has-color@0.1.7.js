@@ -1,1 +1,0 @@
-module.exports = require("npm:has-color@0.1.7/index");

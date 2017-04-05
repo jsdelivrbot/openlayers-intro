@@ -1,3 +1,0 @@
-/* */ 
-"format cjs";
-alert('{{ message }}');

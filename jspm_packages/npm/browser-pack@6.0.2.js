@@ -1,1 +1,0 @@
-module.exports = require("npm:browser-pack@6.0.2/index.js");

@@ -1,1 +1,0 @@
-module.exports = require("npm:date-now@0.1.4/index");

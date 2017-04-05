@@ -10,6 +10,7 @@
   "license": "ISC",
   "jspm": {
     "dependencies": {
+      "css": "github:systemjs/plugin-css@^0.1.33",
       "d3": "npm:d3@^4.7.4",
       "d3-request": "npm:d3-request@^1.0.5",
       "highlight.js": "npm:highlight.js@^9.10.0",

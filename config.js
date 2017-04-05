@@ -17,6 +17,7 @@ System.config({
     "babel": "npm:babel-core@5.8.38",
     "babel-runtime": "npm:babel-runtime@5.8.38",
     "core-js": "npm:core-js@1.2.7",
+    "css": "github:systemjs/plugin-css@0.1.33",
     "d3": "npm:d3@4.7.4",
     "d3-request": "npm:d3-request@1.0.5",
     "highlight.js": "npm:highlight.js@9.10.0",

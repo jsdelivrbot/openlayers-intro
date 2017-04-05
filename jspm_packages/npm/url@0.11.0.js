@@ -1,1 +1,0 @@
-module.exports = require("npm:url@0.11.0/url.js");

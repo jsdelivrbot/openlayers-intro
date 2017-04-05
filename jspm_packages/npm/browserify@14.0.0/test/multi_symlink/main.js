@@ -1,3 +1,0 @@
-/* */ 
-require('./x');
-require('./y');

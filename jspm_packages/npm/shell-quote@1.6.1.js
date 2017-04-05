@@ -1,1 +1,0 @@
-module.exports = require("npm:shell-quote@1.6.1/index.js");

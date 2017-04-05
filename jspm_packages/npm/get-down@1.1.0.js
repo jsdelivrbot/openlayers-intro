@@ -1,1 +1,0 @@
-module.exports = require("npm:get-down@1.1.0/lib/index.js");

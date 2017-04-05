@@ -1,1 +1,0 @@
-module.exports = require("npm:tar@1.0.1/tar.js");

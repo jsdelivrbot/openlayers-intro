@@ -1,1 +1,0 @@
-module.exports = require("npm:console-browserify@1.1.0/index");

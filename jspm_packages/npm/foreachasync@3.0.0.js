@@ -1,1 +1,0 @@
-module.exports = require("npm:foreachasync@3.0.0/forEachAsync.js");

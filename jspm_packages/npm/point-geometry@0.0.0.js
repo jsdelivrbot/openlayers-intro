@@ -1,1 +1,0 @@
-module.exports = require("npm:point-geometry@0.0.0/index.js");

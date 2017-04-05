@@ -1,1 +1,0 @@
-module.exports = require("npm:wrap-fn@0.1.5/index");

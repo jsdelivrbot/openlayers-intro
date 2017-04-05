@@ -1,1 +1,0 @@
-module.exports = require("npm:acorn-jsx@3.0.1/index");

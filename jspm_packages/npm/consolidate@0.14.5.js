@@ -1,1 +1,0 @@
-module.exports = require("npm:consolidate@0.14.5/index");

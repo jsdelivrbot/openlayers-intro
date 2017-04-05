@@ -1,1 +1,0 @@
-module.exports = require("npm:parents@1.0.1/index.js");

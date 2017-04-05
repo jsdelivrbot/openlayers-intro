@@ -1,1 +1,0 @@
-module.exports = require("npm:stream-http@2.7.0/index.js");

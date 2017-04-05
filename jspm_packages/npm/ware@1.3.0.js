@@ -1,1 +1,0 @@
-module.exports = require("npm:ware@1.3.0/lib/index.js");

@@ -1,1 +1,0 @@
-module.exports = require("npm:has-generators@1.0.1/index.js");

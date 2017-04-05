@@ -1,1 +1,0 @@
-module.exports = require("npm:js2xmlparser@1.0.0/lib/js2xmlparser.js");

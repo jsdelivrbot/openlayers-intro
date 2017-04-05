@@ -1,1 +1,0 @@
-module.exports = require("npm:builtin-status-codes@3.0.0/browser.js");

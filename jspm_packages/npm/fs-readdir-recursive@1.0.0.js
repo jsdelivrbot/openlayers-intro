@@ -1,1 +1,0 @@
-module.exports = require("npm:fs-readdir-recursive@1.0.0/index");

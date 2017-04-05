@@ -1,1 +1,0 @@
-module.exports = require("npm:nomnom@1.8.1/nomnom");

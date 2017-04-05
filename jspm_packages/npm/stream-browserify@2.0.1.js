@@ -1,1 +1,0 @@
-module.exports = require("npm:stream-browserify@2.0.1/index.js");

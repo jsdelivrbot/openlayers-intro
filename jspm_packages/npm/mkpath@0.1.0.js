@@ -1,1 +1,0 @@
-module.exports = require("npm:mkpath@0.1.0/mkpath");
