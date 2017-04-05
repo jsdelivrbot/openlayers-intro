@@ -652,8 +652,8 @@ a:focus {
 
     So use it wisely ... or don't use at all.
 */
-.impress-enabled          { pointer-events: none }
-.impress-enabled #impress { pointer-events: auto }
+// .impress-enabled          { pointer-events: none }
+// .impress-enabled #impress { pointer-events: auto }
 
 /*
     There is one funny thing I just realized.
@@ -680,6 +680,10 @@ h1 {
   margin: 20px 0;
   font-size: 1.4rem;
 }
+h2 {
+  margin: 20px 0;
+  font-size: 1.3rem;
+}
 .past {
   -moz-opacity:0.5;
   -khtml-opacity: 0.5;
@@ -696,17 +700,12 @@ ol, ul {
   height: 400px;
 }
 
-ul{
-  >li {
-    .logos {
-      width: 2vw;
-    }
-    
-  }
+.logos {
+  width: 2vw;
 }
 
 .slide code {
-  font-size: 0.9rem;
+  font-size: 0.6rem;
 }
 .slide .enhance {
     display: inline-block;
@@ -732,3 +731,22 @@ ul{
     transition-delay:         1s;
 }
 
+.slide.right {
+  width: 50vw;
+  margin: 0 5vw 0 20vw;
+}
+
+#map {
+  position: fixed;
+  width: 30vw;
+  height: 80vh;
+  top: 10vh;
+  left: 5vw;
+  z-index: 10000000;
+}
+.hidden {
+  visibility: hidden;
+}
+.slide img {
+  height: 70%;
+}
