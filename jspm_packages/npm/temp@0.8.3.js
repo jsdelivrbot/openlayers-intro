@@ -1,0 +1,1 @@
+module.exports = require("npm:temp@0.8.3/lib/temp");

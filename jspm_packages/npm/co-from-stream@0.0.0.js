@@ -1,0 +1,1 @@
+module.exports = require("npm:co-from-stream@0.0.0/index");

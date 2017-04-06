@@ -1,0 +1,1 @@
+module.exports = require("npm:catharsis@0.8.8/catharsis.js");
