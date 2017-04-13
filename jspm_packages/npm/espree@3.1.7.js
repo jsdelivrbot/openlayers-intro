@@ -1,0 +1,1 @@
+module.exports = require("npm:espree@3.1.7/espree.js");

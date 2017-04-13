@@ -1,0 +1,1 @@
+module.exports = require("npm:absolute@0.0.1/absolute.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:thunkify-wrap@1.0.4/index");

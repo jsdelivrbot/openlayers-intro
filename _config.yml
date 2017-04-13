@@ -1,1 +1,2 @@
 exclude: [jspm_packages]
+theme: jekyll-theme-cayman

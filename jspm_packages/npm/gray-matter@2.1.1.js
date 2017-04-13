@@ -1,0 +1,1 @@
+module.exports = require("npm:gray-matter@2.1.1/index.js");

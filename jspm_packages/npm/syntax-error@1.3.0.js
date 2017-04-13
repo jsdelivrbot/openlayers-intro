@@ -1,0 +1,1 @@
+module.exports = require("npm:syntax-error@1.3.0/index.js");

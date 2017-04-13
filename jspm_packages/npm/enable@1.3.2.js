@@ -1,0 +1,1 @@
+module.exports = require("npm:enable@1.3.2/index.js");
