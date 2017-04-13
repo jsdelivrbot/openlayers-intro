@@ -1,5 +1,5 @@
 System.config({
-  baseURL: "/",
+  baseURL: "/openlayers-intro",
   defaultJSExtensions: true,
   transpiler: "babel",
   babelOptions: {
